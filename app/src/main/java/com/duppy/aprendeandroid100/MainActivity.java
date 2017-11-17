@@ -26,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void callBtn17(View view) {
-        Toast.makeText(this,"En pruebas 17",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, Ejercicio17.class);
+        startActivity(intent);
     }
 
     public void callBtn18(View view) {

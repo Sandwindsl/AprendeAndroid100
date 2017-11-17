@@ -14,6 +14,12 @@
     <string name="title_activity_ejercicio16">My Application</string>
 
     <string name="btn_eje17">17</string>
+    <string name="btnmsg_eje17_1">INTENT EXPLICITO</string>
+    <string name="btnmsg_eje17_2">INTENT IMPLICITO</string>
+    <string name="btnmsg_eje17_3">INTENT PENDING</string>
+    <string name="title_activity_ejercicio17">My Application</string>
+    <string name="title_2activity_ejercicio17">SecondActivity</string>
+    <string name="txt2act_eje16_1">Segunda Activity</string>
 
     <string name="btn_eje18">18</string>
 
@@ -27,5 +33,6 @@
 
     <!--  Menús -->
     <string name="menu_op1">Settings</string>
+
 
 </resources>
