@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Aprende Android 100 ejercicios</string>
+    <string name="titulo_libro">Aprender a programar Android con 100 ejercicios prácticos</string>
+
+    <!-- SplashScreen -->
+    <string name="splah_1">Aprender</string>
+    <string name="splah_2">a programar Android</string>
+    <string name="splah_3">con 100 ejercicios prácticos</string>
+
+    <!--  Botones ejercicios -->
+    <string name="btn_eje16">16</string>
+    <string name="txt_eje16">Hello World</string>
+    <string name="btnmsg_eje16">MENSAJE DE INFORMACIÓN</string>
+    <string name="title_activity_ejercicio16">My Application</string>
+
+    <string name="btn_eje17">17</string>
+
+    <string name="btn_eje18">18</string>
+
+    <string name="btn_eje19">19</string>
+
+    <string name="btn_eje20">20</string>
+
+    <string name="btn_eje21">21</string>
+
+    <string name="btn_eje22">22</string>
+
+    <!--  Menús -->
+    <string name="menu_op1">Settings</string>
+
+</resources>
