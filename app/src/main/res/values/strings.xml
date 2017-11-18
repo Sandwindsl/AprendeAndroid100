@@ -22,8 +22,18 @@
     <string name="txt2act_eje16_1">Segunda Activity</string>
 
     <string name="btn_eje18">18</string>
+    <string name="txt_eje18">Número de segundos</string>
+    <string name="btnmsg_eje18">Comenzar contador</string>
+    <string name="title_activity_ejercicio18">My Application</string>
 
     <string name="btn_eje19">19</string>
+    <string name="txt_eje19_1">Content provider</string>
+    <string name="txt_eje19_2">Aprender Android</string>
+    <string name="txt_eje19_3">Nombre</string>
+    <string name="txt_eje19_4">Grado</string>
+    <string name="btnmsg_eje19_1">AÑADIR NOMBRE</string>
+    <string name="btnmsg_eje19_2">RECUPERAR ESTUDIANTE</string>
+    <string name="title_activity_ejercicio19">Content Provider</string>
 
     <string name="btn_eje20">20</string>
 

@@ -4,10 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.Toast;
-
-import static android.provider.AlarmClock.EXTRA_MESSAGE;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
 
     }
 
@@ -31,11 +27,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void callBtn18(View view) {
-        Toast.makeText(this,"En pruebas 18",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, Ejercicio18.class);
+        startActivity(intent);
     }
 
     public void callBtn19(View view) {
-        Toast.makeText(this,"En pruebas 19",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, Ejercicio19.class);
+        startActivity(intent);
     }
 
     public void callBtn20(View view) {
