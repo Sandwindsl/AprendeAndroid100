@@ -62,8 +62,20 @@
             android:name=".MyContentProvider"
             android:authorities="com.duppy.aprendeandroid100.MyContentProvider"
             android:enabled="true"
-            android:exported="false">
-        </provider>
+            android:exported="false" />
+
+        <activity android:name=".Ejercicio20" />
+
+        <service
+            android:name=".MiServicioEnlazado"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name=".MiServicioIniciado"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".Ejercicio21"></activity>
     </application>
 
 </manifest>

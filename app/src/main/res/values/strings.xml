@@ -36,10 +36,25 @@
     <string name="title_activity_ejercicio19">Content Provider</string>
 
     <string name="btn_eje20">20</string>
+    <string name="btnmsg_eje20_1">ARRANCAR SERVICIO ENLAZADO</string>
+    <string name="btnmsg_eje20_2">ARRANCAR SERVICIO INICIADO</string>
+    <string name="btnmsg_eje20_3">PARAR SERVICIO ENLAZADO</string>
 
     <string name="btn_eje21">21</string>
+    <string name="txt_eje21_1">Empty Activity = Basic Activity</string>
 
     <string name="btn_eje22">22</string>
+
+    <string name="btn_eje23">23</string>
+
+    <string name="btn_eje24">24</string>
+
+    <string name="btn_eje25">25</string>
+
+    <string name="btn_eje26">26</string>
+
+    <string name="btn_eje27">27</string>
+
 
     <!--  Menús -->
     <string name="menu_op1">Settings</string>

@@ -37,14 +37,32 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void callBtn20(View view) {
-        Toast.makeText(this,"En pruebas 20",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, Ejercicio20.class);
+        startActivity(intent);
     }
 
     public void callBtn21(View view) {
-        Toast.makeText(this,"En pruebas 21",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, Ejercicio21.class);
+        startActivity(intent);
     }
 
     public void callBtn22(View view) {
         Toast.makeText(this,"En pruebas 22",Toast.LENGTH_SHORT).show();
+    }
+
+    public void callBtn23(View view) {
+        Toast.makeText(this,"En pruebas 23",Toast.LENGTH_SHORT).show();
+    }
+
+    public void callBtn24(View view) {
+        Toast.makeText(this,"En pruebas 24",Toast.LENGTH_SHORT).show();
+    }
+
+    public void callBtn25(View view) {
+        Toast.makeText(this,"En pruebas 25",Toast.LENGTH_SHORT).show();
+    }
+
+    public void callBtn26(View view) {
+        Toast.makeText(this,"En pruebas 26",Toast.LENGTH_SHORT).show();
     }
 }
